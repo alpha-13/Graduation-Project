@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">IControl</string>
+    <string-array name="Items">
+        <item>Check Access</item>
+        <item>Setting Alarm</item>
+        <item>Outside Mode</item>
+        <item>Refresh</item>
+    </string-array>
+
+    <string-array name="Percentage">
+        <item>25%</item>
+        <item>50%</item>
+        <item>75%</item>
+        <item>100%</item>
+    </string-array>
+</resources>
