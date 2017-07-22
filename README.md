@@ -20,3 +20,23 @@ If you want to make this system better please check chapter 7 in the documentati
 2. Level 2 (Professional): Add new functions to our system.
 3. Level 3 (Secure): Add new functions to secure your home and car.
 4. Level 4 (Intelligent): Use AI approches like machine learning to make our system more intelligent and attractive.
+
+# Youtube Demo
+- **<a href="https://youtu.be/4GhRlFjg1vc">Home Control</a>**
+- **<a href="https://youtu.be/n6lKmJSlyM8">Face Recognition</a>**
+- **<a href="https://youtu.be/39FnJd391uY">Eye Blink</a>**
+
+# Screenshots
+![19](https://user-images.githubusercontent.com/20142053/28490951-a658974e-6ee6-11e7-8b8a-5db1f73f74e0.jpg)
+
+### Main Activity
+![02](https://user-images.githubusercontent.com/20142053/28490944-864a7134-6ee6-11e7-9ce3-d7176cb5c249.png)
+
+![04](https://user-images.githubusercontent.com/20142053/28490938-4d23accc-6ee6-11e7-9b08-4363714ae5d5.png)
+
+### Unauthorized Users Activity
+![05](https://user-images.githubusercontent.com/20142053/28490990-b37d446e-6ee7-11e7-8f94-ba531cab3c7a.png)
+
+### Alarm Activity
+![10](https://user-images.githubusercontent.com/20142053/28490974-299fea12-6ee7-11e7-822e-d6945ecc41fb.png)
+
